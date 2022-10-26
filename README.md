@@ -5,6 +5,7 @@
 3. Run **npm install** to install the required node modules (Which mentioned in package.json)
 4. Run the Command in project location where package.json presents, **npm run test**
 5. if you want to execute without package.json , then run below command **npx wdio run wdio.conf.js**
+6. after Completion of execution run the below command at Target location to see the Allure Report **allure generate allure-results && allure open**
 
 # About the Problem Statement
 1. When we try to Navigate the URL **https://osa-web.t-cg.co.uk/qatest** we'll see that the same page is displayed but it is

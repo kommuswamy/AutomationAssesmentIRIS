@@ -8,5 +8,5 @@
 
 # About the Problem Statement
 1. When we try to Navigate the URL **https://osa-web.t-cg.co.uk/qatest** we'll see that the same page is displayed but it is
-    broken, and no news appears beacause of there is no such deep link exist in the page.
+    broken, and no news appears beacause of there is no such deep link exist in the page (Wrong deep link URL).
 2. if we want to see the News page with the deep link URL we should use URL **https://osa-web.t-cg.co.uk/news** with news.
